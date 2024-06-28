@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1667611691 source:c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\cola.cpp
+	"Cola.h"
+
+1666224151 c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\cola.h
+
+1666807333 source:c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\equipaje.cpp
+	"Equipaje.h"
+
+1666918162 source:c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\lista.cpp
+	"Lista.h"
+
+1666918162 c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\lista.h
+
+1667612597 source:c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	"Lista.h"
+	"Cola.h"
+	"Pila.h"
+	"Restaurant.h"
+	"Vajilla.h"
+	"Bachero.h"
+
+1666224151 c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\pila.h
+
+1666803008 c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\viaje.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Equipaje.h"
+
+1666801866 c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\equipaje.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1666224722 c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\objetos.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Equipaje.h"
+
+1666223350 source:c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\objetos.cpp
+
+1666223478 source:c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\pila.cpp
+	"Pila.h"
+
+1666803138 source:c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\viaje.cpp
+	"Viaje.h"
+	"Pila.h"
+
+1666841396 source:c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\bachero.cpp
+	"Bachero.h"
+
+1666928875 source:c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\restaurant.cpp
+	"Restaurant.h"
+	"Pila.h"
+
+1666928826 source:c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\vajilla.cpp
+	"Vajilla.h"
+
+1666928826 c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\restaurant.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Vajilla.h"
+	"Bachero.h"
+
+1666928826 c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\vajilla.h
+	<iostream>
+	<string>
+	"Bachero.h"
+	"Cola.h"
+
+1666841377 c:\users\guido\onedrive\escritorio\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico\bachero.h
+	<iostream>
+	<string>
+
+1666841396 source:c:\users\guido\desktop\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico guido huidobro\bachero.cpp
+	"Bachero.h"
+
+1666841377 c:\users\guido\desktop\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico guido huidobro\bachero.h
+	<iostream>
+	<string>
+
+1667611691 source:c:\users\guido\desktop\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico guido huidobro\cola.cpp
+	"Cola.h"
+
+1666224151 c:\users\guido\desktop\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico guido huidobro\cola.h
+
+1666918162 source:c:\users\guido\desktop\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico guido huidobro\lista.cpp
+	"Lista.h"
+
+1666918162 c:\users\guido\desktop\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico guido huidobro\lista.h
+
+1667612597 source:c:\users\guido\desktop\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico guido huidobro\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	"Lista.h"
+	"Cola.h"
+	"Pila.h"
+	"Restaurant.h"
+	"Vajilla.h"
+	"Bachero.h"
+
+1666224151 c:\users\guido\desktop\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico guido huidobro\pila.h
+
+1666928826 c:\users\guido\desktop\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico guido huidobro\restaurant.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Vajilla.h"
+	"Bachero.h"
+
+1666928826 c:\users\guido\desktop\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico guido huidobro\vajilla.h
+	<iostream>
+	<string>
+	"Bachero.h"
+	"Cola.h"
+
+1666223478 source:c:\users\guido\desktop\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico guido huidobro\pila.cpp
+	"Pila.h"
+
+1666928875 source:c:\users\guido\desktop\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico guido huidobro\restaurant.cpp
+	"Restaurant.h"
+	"Pila.h"
+
+1666928826 source:c:\users\guido\desktop\usuarios\guido\unla\2do a—o\algoritmos y estrucutras de datos\trabajo practico guido huidobro\vajilla.cpp
+	"Vajilla.h"
+
